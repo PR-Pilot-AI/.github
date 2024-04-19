@@ -9,6 +9,11 @@
   <a href="https://www.pr-pilot.ai">Website</a>
 </p>
 
-PR Pilot is a platform that enables developers to easily create AI-driven automations for Github projects.
+PR Pilot is a platform that enables developers to easily create AI-driven automations for Github projects:
+
+
+* **Easy**: Use our pre-configured **[Smart Project](https://github.com/PR-Pilot-AI/smart-project-template)** template or **[Smart Actions](https://github.com/PR-Pilot-AI/smart-actions)** to get started in minutes
+* **No-Code**: All automations are built and configured using natural language
+* **Hackable**: Everything is open source. Use the **[Python SDK](https://github.com/PR-Pilot-AI/pr-pilot-python)** and **[REST API](https://app.pr-pilot.ai/api/swagger-ui/)** to create your own automations
 
 Get started now with our [User Guide](https://docs.pr-pilot.ai/user_guide.html).
