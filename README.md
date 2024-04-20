@@ -9,6 +9,13 @@
   <a href="https://www.pr-pilot.ai">Website</a>
 </p>
 
-PR Pilot is a platform that enables developers to easily create AI-driven automations for Github projects.
+
+<div align="center">
+  <img src="overview.png" alt="PR Pilot Architecture" height="450">
+  
+A platform that enables developers to create **agentic workflows** for Github projects.
 
 Get started now with our [User Guide](https://docs.pr-pilot.ai/user_guide.html).
+
+</div>
+
