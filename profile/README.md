@@ -9,7 +9,7 @@
   <a href="https://www.pr-pilot.ai">Website</a>
 </p>
 
-PR Pilot is a platform that enables developers to create agentic workflows for Github projects.
+**[PR Pilot](https://github.com/PR-Pilot-AI/pr-pilot)** is a platform that enables developers to create agentic workflows for Github projects.
 
 ## No-Code / Low-Code
 Use our pre-configured **[Smart Project](https://github.com/PR-Pilot-AI/smart-project-template)** template or **[Smart Actions](https://github.com/PR-Pilot-AI/smart-actions)** to get started in minutes. All automations are built and configured using natural language
