@@ -11,9 +11,12 @@
 
 
 <div align="center">
+
+  A platform that enables developers to create **agentic workflows** for Github projects.
+  
   <img src="overview.png" alt="PR Pilot Architecture" height="450">
   
-A platform that enables developers to create **agentic workflows** for Github projects.
+
 
 Get started now with our [User Guide](https://docs.pr-pilot.ai/user_guide.html).
 
