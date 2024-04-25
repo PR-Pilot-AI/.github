@@ -18,7 +18,7 @@
   
 
 
-Get started now with our [User Guide](https://docs.pr-pilot.ai/user_guide.html).
+Get started now with our **[Project Template](https://github.com/PR-Pilot-AI/smart-project-starter)** and **[User Guide](https://docs.pr-pilot.ai/user_guide.html)**.
 
 </div>
 
