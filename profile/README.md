@@ -12,11 +12,7 @@
 
 <div align="center">
 
-  PR Pilot is an AI agent for your Github project. The agent can search and manipulate the code base, browse the internet and interact with Github issues and pull requests. Developers can hand off manual, repetitive parts of their daily work to PR Pilot using Github Actions or integrate it into their own tools using the API and SDK.
-  
-  <img src="overview.png" alt="PR Pilot Architecture" height="450">
-  
-
+Save time and stay in the flow by delegating routine work to AI with confidence and predictability. PR Pilot assist you in your daily workflow and works with the dev tools you trust and love - exactly when and where you want it. 
 
 Get started now with our **[User Guide](https://docs.pr-pilot.ai/user_guide.html)**.
 
