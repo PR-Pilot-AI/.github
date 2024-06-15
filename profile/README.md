@@ -14,6 +14,8 @@
 
 Save time and stay in the flow by delegating routine work to AI with confidence and predictability. PR Pilot assist you in your daily workflow and works with the dev tools you trust and love - exactly when and where you want it. 
 
+[![asciicast](https://asciinema.org/a/664029.svg)](https://asciinema.org/a/664029)
+
 Get started now with our **[User Guide](https://docs.pr-pilot.ai/user_guide.html)**.
 
 </div>
